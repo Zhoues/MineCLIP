@@ -1,4 +1,7 @@
-gym==0.21.0
+setuptools==65.5.0
+wheel==0.38.4
+# gym==0.21.0 # this version contains a typo
+
 x_transformers==0.27.1
 tokenizers
 torch
