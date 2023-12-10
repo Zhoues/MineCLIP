@@ -1,6 +1,6 @@
 setuptools==65.5.0
 wheel==0.38.4
-# gym==0.21.0 # this version contains a typo
+# gym==0.21.0
 
 x_transformers==0.27.1
 tokenizers
@@ -10,4 +10,4 @@ dm-tree
 Pillow
 transformers
 kornia
-# minedojo @ git+https://github.com/MineDojo/MineDojo
+minedojo @ git+https://github.com/MineDojo/MineDojo
